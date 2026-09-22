@@ -93,7 +93,7 @@ I'm a Computer Science undergrad in Nepal with Data Science training and a stron
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunwarsampanna3" alt="kunwarsampanna3" /></a>
+<a href="https://github.com/kunwarsampanna3"><img src="https://github-readme-activity-graph.vercel.app/graph?username=kunwarsampanna3&theme=react-dark" alt="kunwarsampanna3" /></a>
 
 </div>
 
