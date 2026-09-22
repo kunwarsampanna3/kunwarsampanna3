@@ -93,7 +93,7 @@ I'm a Computer Science undergrad in Nepal with Data Science training and a stron
 
 <div align="center">
 
-<sub>powered by curiosity, coffee, and one too many browser tabs</sub>
+<sub>powered by curiosity and one too many browser tabs</sub>
 
 <br/><br/>
 
