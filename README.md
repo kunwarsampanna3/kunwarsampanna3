@@ -93,14 +93,6 @@ I'm a Computer Science undergrad in Nepal with Data Science training and a stron
 
 <div align="center">
 
-<a href="https://github.com/kunwarsampanna3"><img src="https://github-readme-activity-graph.vercel.app/graph?username=kunwarsampanna3&theme=react-dark" alt="kunwarsampanna3" /></a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
 <sub>powered by curiosity, coffee, and one too many browser tabs</sub>
 
 <br/><br/>
