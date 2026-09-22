@@ -9,7 +9,7 @@
 <br/><br/>
 
 <a href="mailto:kunwarsampanna3@gmail.com"><img src="https://img.shields.io/badge/Email-kunwarsampanna3%40gmail.com-0E75B6?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
-<a href="https://linkedin.com/in/sampanna-kunwar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0E75B6?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/sampanna-kunwar-33a788378/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0E75B6?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="https://github.com/kunwarsampanna3"><img src="https://img.shields.io/badge/GitHub-kunwarsampanna3-0E75B6?style=flat-square&logo=github&logoColor=white" /></a>
 
 </div>
