@@ -2,12 +2,14 @@
 
 # Hi there, I'm Sampanna Kunwar 👋
 
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="400">
+
 ### CS Undergrad | Exploring AI & Data Science
 
-**Passionate about building interactive, user-friendly web experiences and diving deeper into AI/ML.**
+**Passionate about building interactive, user-friendly web experiences — and diving deeper into AI/ML one project at a time.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sampanna%20Kunwar-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/sampanna-kunwar)
-[![Email](https://img.shields.io/badge/Email-kunwarsampanna3%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:kunwarsampanna3@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/sampanna-kunwar)
+[![Gmail](https://img.shields.io/badge/Email-kunwarsampanna3%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:kunwarsampanna3@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-kunwarsampanna3-181717?logo=github&logoColor=white)](https://github.com/kunwarsampanna3)
 
 <br/>
@@ -20,21 +22,22 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science undergrad in Nepal with Data Science training and a strong interest in AI/ML. I'm looking to gain hands-on experience, mentorship, and practical exposure that's still limited in my university education. My current focus areas:
+I'm a Computer Science undergrad in Nepal with Data Science training and a growing interest in AI/ML. I'm looking to build the hands-on experience, mentorship, and practical exposure that's still limited in my university education.
 
-- **Client-Side Development:** Exploring advanced client-side development to build more interactive and user-friendly websites.
-- **AI & Data Science:** Building a foundation in data science and machine learning through self-study and coursework, with a strong interest in applying AI to real-world problems.
+- 🌱 Currently learning **Advanced Client-Side Development**, exploring how to build more interactive and user-friendly websites
+- 💡 Interested in applying **AI and data science** to real-world problems
+- ⚡ Fun fact: **I can go from planning a trip to debugging code in the same day**
 
 ---
 
-## 📰 Publications & Writing
+## 📰 Publications
 
 ### [Digital Innovation in Events: A Case Study of FestConnect Smart Festival Platform](https://lnkd.in/p/ghce9kXV)
-An article examining how digital platforms can modernize event and festival management, using FestConnect as a case study.
+An article exploring how digital platforms are modernizing event and festival management, using FestConnect as a case study.
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages & Tools
 
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -51,12 +54,6 @@ An article examining how digital platforms can modernize event and festival mana
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
 </p>
-
----
-
-## ⚡ Fun Fact
-
-I can go from planning a trip to debugging code in the same day.
 
 ---
 
