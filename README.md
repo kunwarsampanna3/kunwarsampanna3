@@ -45,7 +45,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a Computer Science undergrad in Nepal with Data Science training and a strong interest in AI/ML — currently learning **Advanced Client-Side Development** and exploring how to build more interactive, user-friendly websites. I'm looking to build the hands-on experience, mentorship, and practical exposure that's still limited in my university education.
+I'm a Computer Science undergrad in Nepal with Data Science training and a strong interest in AI/ML currently learning **Advanced Client-Side Development** and exploring how to build more interactive, user-friendly websites. I'm looking to build the hands-on experience, mentorship, and practical exposure that's still limited in my university education.
 
 ⚡ Fun fact: I can go from planning a trip to debugging code in the same day.
 
